@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 你的自訂 CSS 放下面 */
+body {
+  font-family: "Noto Sans TC", sans-serif;
+  background-color: #fbf7f9;
+  color: #374151;
+}
